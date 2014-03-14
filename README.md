@@ -11,7 +11,7 @@ contains many ready-to-use components
 and automates as much of the process as possible.
 You can go from zero to regularized gravity inversion
 with as little as 30 lines of code.
-I'll walk through a code example to show you how.
+I'll walk through an example to show you how.
 
 ## Abstract
 
