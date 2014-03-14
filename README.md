@@ -1,14 +1,19 @@
-# Title
+# Using Fatiando a Terra to solve inverse problems in geophysics
 
 [Leonardo Uieda](http://www.leouieda.com),
 [Vanderlei C. Oliviera Jr](http://fatiando.org/people/oliveira-jr),
 [Valéria C. F. Barbosa](http://lattes.cnpq.br/0391036221142471)
 
-## Brief Description
+Inverse problems haunt the nightmares of geophysics graduate students.
+I'll demonstrate how to conquer them using Fatiando a Terra.
+The new machinery in Fatiando
+contains many ready-to-use components
+and automates as much of the process as possible.
+You can go from zero to regularized gravity inversion
+with as little as 30 lines of code.
+I'll walk through a code example to show you how.
 
-400 chars.
-
-## Detailed Abstract
+## Abstract
 
 The inner properties of the Earth
 can usually only be inferred
