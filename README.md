@@ -10,9 +10,12 @@
 
 ## Detailed Abstract
 
-Geophysics is all about using indirect measurements to infer the inner properties of the Earth.
+The inner properties of the Earth can usually only be inferred through indirect measurements of their effects.
 
-Estimating the physical parameters of the Earth from measurements can be formulated as an inverse problem.
+For example, density variations cause disturbances in the gravity field
+and seismic velocity variations affect the path of seismic waves.
+
+From a mathematical point of view, this inference is an inverse problem.
 
 To complicate things, geophysical inverse problems are usually ill-posed.
 
