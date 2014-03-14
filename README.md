@@ -57,7 +57,7 @@ then I'll show how we mapped that to the source code to design our API.
 
 Throughout the talk, I'll refer to the example of estimating the relief of a sedimentary basin from its gravity anomaly.
 
-This example will serve to walk through the process of implementing a new inverse problem using `fatiando.inversion` and the existing forward modeling functions.
+This example will serve to walk through the process of implementing a new inverse problem in approximately 30 lines of code using `fatiando.inversion` and the existing forward modeling functions.
 
 Finally, I'll conclude by outlining how we are using this framework for our research in the [PINGA lab](https://github.com/pinga-lab),
 current efforts to expand this framework, and our plans for the future.
