@@ -78,14 +78,4 @@ Finally,
 I'll conclude by outlining
 how we are using this framework in our own research,
 what we are currently working on,
-and plans our for the future.
-
-
-
-
-
-
-
-
-
-
+and our plans for the future.
