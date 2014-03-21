@@ -36,13 +36,13 @@ These problems can usually be resolved
 through least-squares estimation and regularization.
 
 Research in geophysical inverse problems
-involves the development of
+involves the development of:
 new methodologies for parametrization,
 different approaches to regularization,
 new algorithms to handle large-scale problems,
 combinations of existing methods,
 etc.
-All of the aforementioned
+All of the aforementioned developments
 require the creation of software,
 usually from scratch.
 Furthermore,
