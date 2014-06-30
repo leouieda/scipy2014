@@ -13,6 +13,12 @@ You can go from zero to regularized gravity inversion
 with as little as 30 lines of code.
 I'll walk through an example to show you how.
 
+## Poster
+
+The notebook
+[gravity_inversion.ipynb](http://nbviewer.ipython.org/github/leouieda/scipy2014/blob/master/gravity_inversion.ipynb)
+was used to create all figures and code in the poster.
+
 ## Abstract
 
 The inner properties of the Earth
