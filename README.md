@@ -21,6 +21,8 @@ The notebook
 [gravity_inversion.ipynb](http://nbviewer.ipython.org/github/leouieda/scipy2014/blob/master/gravity_inversion.ipynb)
 was used to create all figures and code in the poster.
 
+This poster is permanently archived at figshare: [doi:10.6084/m9.figshare.1089987](http://dx.doi.org/10.6084/m9.figshare.1089987)
+
 ## Abstract
 
 The inner properties of the Earth
