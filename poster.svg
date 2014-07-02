@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="3080.1771"
-     inkscape:cy="1397.8344"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="3148.5509"
+     inkscape:cy="1777.0541"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1233,7 +1233,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1331,7 +1331,7 @@
          style="font-size:70px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#1a1a1a;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">Leonardo Uieda<tspan
    style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;baseline-shift:super;fill:#1a1a1a;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
    id="tspan2999">1,2</tspan>, Vanderlei C. Oliviera Jr<tspan
-   style="font-size:70px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;baseline-shift:super;fill:#1a1a1a;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+   style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;baseline-shift:super;fill:#1a1a1a;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
    id="tspan3001">2</tspan>, and Valéria C. F. Barbosa<tspan
    style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;baseline-shift:super;fill:#1a1a1a;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
    id="tspan3003">2</tspan></tspan></text>
@@ -1346,15 +1346,16 @@
          id="tspan2997"
          x="88.85746"
          y="-2293.3501"
-         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#1a1a1a;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">1. Universidade do Estado do Rio de Janeiro  2. Observatório Nacional</tspan></text>
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#1a1a1a;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">1. Universidade do Estado do Rio de Janeiro, Brazil      2. Observatório Nacional, Brazil</tspan></text>
     <image
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       width="1080"
-       height="720"
-       xlink:href="file:///home/leo/pub/scipy2014/sketch.png"
-       id="image8998"
+       sodipodi:absref="/home/leo/pub/scipy2014/sketch.png"
+       xlink:href="sketch.png"
+       y="-2115.3977"
        x="1956.9303"
-       y="-2115.3977" />
+       id="image8998"
+       height="720"
+       width="1080"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
     <text
        sodipodi:linespacing="125%"
        id="text9005"
@@ -1402,7 +1403,7 @@
          y="-2154.5859"
          x="3290.2051"
          id="tspan9007-7-3-3"
-         sodipodi:role="line">4 - Taking it for a test drive</tspan></text>
+         sodipodi:role="line">4 - Take it for a test drive</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text9005-0-7-4-4"
@@ -1482,10 +1483,10 @@
        xml:space="preserve"
        id="text5556" />
     <rect
-       y="-2208.6567"
-       x="230.77408"
-       height="2662.0547"
-       width="1535.1812"
+       y="-2211.4851"
+       x="213.80351"
+       height="2664.8831"
+       width="1552.1519"
        id="rect9009"
        style="fill:#f4f4f4;fill-opacity:1;stroke:#909090;stroke-width:3.84884429;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        ry="24.048746"
@@ -1535,13 +1536,13 @@
        sodipodi:linespacing="125%"
        id="text8819"
        y="-2154.0369"
-       x="267.66122"
+       x="235.66122"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        xml:space="preserve"><tspan
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          id="tspan8885"
          y="-2154.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line"><tspan
    style="font-weight:bold;fill:#008000"
    id="tspan6409">import</tspan> numpy <tspan
@@ -1550,7 +1551,7 @@
          id="tspan9564"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-2094.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line"><tspan
    style="font-weight:bold;fill:#008000"
    id="tspan6421">from</tspan> fatiando.gravmag <tspan
@@ -1559,7 +1560,7 @@
          id="tspan9566"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-2034.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line"><tspan
    style="font-weight:bold;fill:#008000"
    id="tspan6423">from</tspan> fatiando.mesher <tspan
@@ -1568,7 +1569,7 @@
          id="tspan9568"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-1974.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line"><tspan
    style="font-weight:bold;fill:#008000"
    id="tspan6427">from</tspan> fatiando.inversion.base <tspan
@@ -1577,73 +1578,73 @@
          id="tspan9570"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-1914.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line" /><tspan
          id="tspan9572"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-1854.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line"><tspan
    style="font-weight:bold;fill:#008000"
    id="tspan6451">class</tspan> PolyBasin2D(Misfit):</tspan><tspan
          id="tspan9574"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-1794.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line"><tspan
    style="font-weight:bold;fill:#008000"
    id="tspan6455">    def</tspan> __init__(self, x, z, gz, height, npoints, density):</tspan><tspan
          id="tspan9576"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-1734.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line"><tspan
    style="fill:#008000"
    id="tspan6465">        super</tspan>(PolyBasin2D, self).__init__(</tspan><tspan
          id="tspan9578"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-1674.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">            data=gz, nparams=npoints, islinear=<tspan
    style="fill:#008000"
    id="tspan6475">False</tspan>,</tspan><tspan
          id="tspan9580"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-1614.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">            positional=<tspan
    style="fill:#008000"
    id="tspan6477">dict</tspan>(x=x, z=z), </tspan><tspan
          id="tspan9582"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-1554.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">            model=<tspan
    style="fill:#008000"
    id="tspan6479">dict</tspan>(height=height, </tspan><tspan
          id="tspan9584"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-1494.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">                       props={<tspan
    style="fill:#ff0000"
    id="tspan6335">'density'</tspan>: density}))</tspan><tspan
          id="tspan9586"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-1434.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line" /><tspan
          id="tspan9588"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-1374.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line"><tspan
    style="font-weight:bold;fill:#008000"
    id="tspan6481">    def</tspan> p2vertices(self, p):</tspan><tspan
          id="tspan9590"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-1314.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">        x, h = self.positional[<tspan
    style="fill:#ff0000"
    id="tspan6337">'x'</tspan>], self.model[<tspan
@@ -1652,21 +1653,21 @@
          id="tspan9592"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-1254.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">        n = self.nparams + <tspan
    style="fill:#008000"
    id="tspan6313">2</tspan></tspan><tspan
          id="tspan9594"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-1194.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">        verts = np.empty((n, <tspan
    style="fill:#008000"
    id="tspan6317">2</tspan>))</tspan><tspan
          id="tspan9596"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-1134.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">        verts[:, <tspan
    style="fill:#008000"
    id="tspan6319">0</tspan>] = np.linspace(x.min(), x.max(), n)[::<tspan
@@ -1675,33 +1676,33 @@
          id="tspan9598"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-1074.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">        verts[:, <tspan
    style="fill:#008000"
    id="tspan6321">1</tspan>] = np.concatenate([[h], p, [h]])</tspan><tspan
          id="tspan9600"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-1014.0369"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line"><tspan
    style="font-weight:bold;fill:#008000"
    id="tspan6487">        return</tspan> verts</tspan><tspan
          id="tspan9602"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-954.03687"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line" /><tspan
          id="tspan9604"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-894.03687"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line"><tspan
    style="font-weight:bold;fill:#008000"
    id="tspan6493">    def</tspan> _get_predicted(self, p):</tspan><tspan
          id="tspan9606"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-834.03687"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">        x, z = self.positional[<tspan
    style="fill:#ff0000"
    id="tspan6341">'x'</tspan>], self.positional[<tspan
@@ -1710,38 +1711,38 @@
          id="tspan9608"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-774.03687"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">        verts = self.p2vertices(p)</tspan><tspan
          id="tspan9610"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-714.03687"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">        poly = Polygon(verts, self.model[<tspan
    style="fill:#ff0000"
    id="tspan6343">'props'</tspan>])</tspan><tspan
          id="tspan9612"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-654.03687"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line"><tspan
    style="font-weight:bold;fill:#008000"
    id="tspan6499">        return</tspan> talwani.gz(x, z, [poly])</tspan><tspan
          id="tspan9614"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-594.03687"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line" /><tspan
          id="tspan9616"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-534.03687"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line"><tspan
    style="font-weight:bold;fill:#008000"
    id="tspan6505">    def</tspan> _get_jacobian(self, p):    </tspan><tspan
          id="tspan9618"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-474.03687"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">        x, z = self.positional[<tspan
    style="fill:#ff0000"
    id="tspan6347">'x'</tspan>], self.positional[<tspan
@@ -1750,13 +1751,13 @@
          id="tspan9620"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-414.03687"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">        verts = self.p2vertices(p)</tspan><tspan
          id="tspan9622"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-354.03687"
-         x="267.66122"
-         sodipodi:role="line">        dz = np.array([<tspan
+         x="235.66122"
+         sodipodi:role="line">        delta = np.array([<tspan
    style="fill:#008000"
    id="tspan6323">0</tspan>, <tspan
    style="fill:#008000"
@@ -1764,12 +1765,12 @@
          id="tspan9624"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-294.03687"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">        jac = np.zeros((self.ndata, self.nparams))</tspan><tspan
          id="tspan9626"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-234.03687"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line"><tspan
    style="font-weight:bold;fill:#008000"
    id="tspan6511">        for</tspan> i <tspan
@@ -1780,73 +1781,73 @@
          id="tspan9628"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-174.03687"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">            diff = Polygon([verts[i + <tspan
    style="fill:#008000"
    id="tspan6327">2</tspan>], verts[i + <tspan
    style="fill:#008000"
-   id="tspan6329">1</tspan>] - dz, </tspan><tspan
+   id="tspan6329">1</tspan>] - delta, </tspan><tspan
          id="tspan9630"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-114.03687"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">                            verts[i], verts[i + <tspan
    style="fill:#008000"
-   id="tspan6331">1</tspan>] + dz],</tspan><tspan
+   id="tspan6331">1</tspan>] + delta],</tspan><tspan
          id="tspan9632"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="-54.036865"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">                           self.model[<tspan
    style="fill:#ff0000"
    id="tspan6351">'props'</tspan>])</tspan><tspan
          id="tspan9634"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="5.9631348"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">            jac[:, i] = talwani.gz(x, z, [diff])/(<tspan
    style="fill:#008000"
-   id="tspan6333">2</tspan>* dz[1]) </tspan><tspan
+   id="tspan6333">2 </tspan>* delta[1]) </tspan><tspan
          id="tspan9636"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="65.963135"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line"><tspan
    style="font-weight:bold;fill:#008000"
    id="tspan6525">        return</tspan> jac</tspan><tspan
          id="tspan9638"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="125.96313"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line" /><tspan
          id="tspan9640"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="185.96313"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line"><tspan
    style="font-weight:bold;fill:#008000"
    id="tspan6531">    def</tspan> fit(self):</tspan><tspan
          id="tspan9642"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="245.96313"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">        super(PolyBasin2D, self).fit()</tspan><tspan
          id="tspan9644"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="305.96313"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">        self._estimate = Polygon(self.p2vertices(self.p_), </tspan><tspan
          id="tspan9646"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="365.96313"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line">                                 self.model[<tspan
    style="fill:#ff0000"
    id="tspan6353">'props'</tspan>])</tspan><tspan
          id="tspan9648"
          style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
          y="425.96313"
-         x="267.66122"
+         x="235.66122"
          sodipodi:role="line"><tspan
    style="font-weight:bold;fill:#008000"
    id="tspan6537">        return</tspan> self</tspan></text>
@@ -2111,7 +2112,7 @@
          xml:space="preserve"
          style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
          x="3292.2151"
-         y="-153.03143"
+         y="-149.03143"
          id="text4372-3-4"
          sodipodi:linespacing="125%"
          inkscape:transform-center-x="394.81247"
@@ -2119,7 +2120,7 @@
            sodipodi:role="line"
            id="tspan4374-8-7"
            x="3292.2151"
-           y="-153.03143"
+           y="-149.03143"
            style="font-size:50px;fill:#000080;fill-opacity:1">In [3]:</tspan></text>
     </g>
     <image
@@ -2143,7 +2144,7 @@
        height="132.54294"
        xlink:href="data:image/png;base64,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 fX3k4YcfvmHIkCGbXnrppbND5wFIFkoNADSxV155pdfll1++4ec///nNHhEAOH5KDQAEUFtbm3Xn nXc+UFxcvOq99947I3QegESm1ABAQM8991xBNBrdunr16uGhswAkKqUGAAL78MMP20yaNGnRD3/4 w5/t37+/Veg8AIlGqQGAODF37txrCwsLN2/btu3c0FkAEolSAwBxZMeOHX8zbNiw/3zwwQdvOXz4 sH+nAY6AvywBIM7U1dU1v/fee+/5zne+89Tbb7/99dB5AOKdUgMAcWr9+vUXFRQU1CxdunRk6CwA 8UypAYA49vHHH5/y3e9+9/Gbb7753/bs2XNi6DwA8UipAYAEUFFRMW7QoEEvbt68OSd0FoB4o9QA QIJ44403ulx55ZVrS0tLp9fV1WWEzgMQL5QaAEggdXV1GQ888MCMESNGPPvGG290CZ0HIB4oNQCQ gDZt2pQ7aNCgFxcuXFgcOgtAaEoNACSoPXv2nHjTTTc9ev311//H7t27Tw6dByAUpQYAElxlZeWo goKCmvXr118UOgtACEoNACSBt956q9OoUaOevO+++/6xrq6ueeg8AE1JqQGAJPHpp582i8ViPxo+ fPgLr732WvfQeQCailIDAEmmpqamf2Fh4eb/+I//mBQ6C0BTUGoAIAnt27fva9OmTfv5dddd98Su XbtOC50HoDEpNQCQxFauXHlFNBrdunbt2oGhswA0FqUGAJLcu+++276oqKjqH/7hH+6vra3NCp0H oKEpNQCQAurr6yM/+9nPfjBs2LD1v/3tb78ROg9AQ1JqACCFbN++ve+QIUM2PfLII9fX19dHQucB aAhKDQCkmAMHDrS8/fbbyydMmLB0586dbUPnATheSg0ApKgnn3xyaDQa3frUU08NCZ0F4HgoNQCQ wnbu3Nlu/Pjxy26//fbyAwcOtAydB+BYKDUAkOLq6+sjjzzyyPVDhw7d+NJLL50dOg/A0VJqAIC0 tLS0tFdeeaXX5ZdfvuHnP//5zR4RABKJUgMA/J/a2tqsO++884GioqKqd999t33oPABHQqkBAP7C 2rVrBxYUFNSsXr16eOgsAF9FqQEAPteHH37YZtKkSYt++MMf/mzfvn1fC50H4IsoNQDAl5o7d+61 hYWFm7du3ZodOgvA51FqAICv9Nprr3X/9re/ve7BBx+85fDhw/73AxBX/KUEAByRurq65vfee+89 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 "
        id="image5506"
-       x="92.813721"
+       x="70.813721"
        y="-1997.3405" />
     <rect
        ry="0"
@@ -2293,7 +2294,7 @@
            x="-294.15643"
            y="2869.2466" /></flowRegion><flowPara
          id="flowPara3378" /></flowRoot>    <g
-       transform="translate(191.09841,-219.33809)"
+       transform="matrix(1.0136931,0,0,1.0772066,165.20979,-267.25287)"
        id="g13300">
       <path
          id="path5287"
@@ -2697,15 +2698,13 @@
            y="-169.6405"
            id="tspan13365">Fixing the <tspan
    style="font-style:italic"
-   id="tspan13361">x</tspan> coords, our model <tspan
+   id="tspan13361">x</tspan> coordinates, our model <tspan
    style="font-weight:bold"
-   id="tspan13363">parameters </tspan>are the <tspan
-   style="font-weight:bold"
-   id="tspan13367" /></tspan><tspan
+   id="tspan13363">parameters </tspan>are </tspan><tspan
            id="tspan4600"
            sodipodi:role="line"
            x="1798"
-           y="-107.1405"><tspan
+           y="-107.1405">the <tspan
    id="tspan4602"
    style="font-weight:bold">depths</tspan> of the vertices.</tspan></text>
       <g
@@ -2769,7 +2768,9 @@
            sodipodi:role="line"
            x="1893.65"
            y="-63.140503"
-           id="tspan6763">gravity data.</tspan></text>
+           id="tspan6763">gravity data from a <tspan
+   style="font-weight:bold"
+   id="tspan3808">parameter vector</tspan>.</tspan></text>
     </g>
     <g
        id="g4747"
@@ -2955,9 +2956,9 @@
          y="-1199.6405"
          x="1892.85"
          id="tspan15628"
-         sodipodi:role="line">Sediments have l<tspan
-   id="tspan15636"
-   style="font-weight:bold">ower density</tspan> than the rocks below.</tspan><tspan
+         sodipodi:role="line">Sediments have<tspan
+   style="font-weight:bold"
+   id="tspan3802"> lower density</tspan> than the rocks around.</tspan><tspan
          id="tspan15630"
          y="-1137.1405"
          x="1892.85"
@@ -3055,7 +3056,7 @@
          id="tspan4834"
          y="571.95325"
          x="2108.4917"
-         sodipodi:role="line">Mapping  to the code:</tspan><tspan
+         sodipodi:role="line">Mapping to the code:</tspan><tspan
          id="tspan4842"
          y="634.45325"
          x="2108.4917"
@@ -3289,7 +3290,7 @@
          sodipodi:role="line"
          id="tspan6717"
          x="3462.6326"
-         y="-2043.3124">Best way to test a new method is with <tspan
+         y="-2043.3124">The best way to test a new method is with <tspan
    style="font-weight:bold"
    id="tspan6719">synthetic data</tspan>.</tspan><tspan
          sodipodi:role="line"
@@ -3299,7 +3300,9 @@
          sodipodi:role="line"
          x="3462.6326"
          y="-1918.3124"
-         id="tspan6747">some noisy gravity anomaly data,  and plot them.</tspan></text>
+         id="tspan6747">some <tspan
+   style="font-weight:bold"
+   id="tspan3800">noisy</tspan> gravity anomaly data, and plot them.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
@@ -3347,23 +3350,23 @@
          sodipodi:role="line"
          id="tspan6858"
          x="3433.9146"
-         y="-663.6405">Those are terrible results! That is because geophysical inverse </tspan><tspan
+         y="-663.6405">That result is terrible! But it is expected because geophysical </tspan><tspan
          sodipodi:role="line"
          x="3433.9146"
          y="-601.1405"
-         id="tspan6864">problems are <tspan
+         id="tspan6864">inverse problems are <tspan
    style="font-weight:bold"
-   id="tspan6866">ill-posed</tspan>. The standard fix is to use Tikhonov </tspan><tspan
+   id="tspan6866">ill-posed</tspan>. The standard fix is to use </tspan><tspan
          sodipodi:role="line"
          x="3433.9146"
          y="-538.6405"
-         id="tspan6874"><tspan
+         id="tspan6874">Tikhonov <tspan
    id="tspan8303"
-   style="font-weight:bold">regularization</tspan>, like damping. In geophysics, we like the first-</tspan><tspan
+   style="font-weight:bold">regularization</tspan>, like damping. In geophysics, we like </tspan><tspan
          sodipodi:role="line"
          x="3433.9146"
          y="-476.1405"
-         id="tspan6878">order Tikhonov regularization, a.k.a., <tspan
+         id="tspan6878">the first-order Tikhonov regularization, a.k.a., <tspan
    id="tspan8305"
    style="font-weight:bold">smoothness</tspan>.</tspan></text>
     <text
@@ -3572,21 +3575,21 @@
          y="-663.6405"
          x="5000"
          id="tspan8540"
-         sodipodi:role="line">For bonus points, we can estimate the <tspan
-   id="tspan8546"
-   style="font-weight:bold">regularization </tspan></tspan><tspan
+         sodipodi:role="line">For bonus points, we can estimate an optimal value for</tspan><tspan
          id="tspan8542"
          y="-599.96173"
          x="5000"
-         sodipodi:role="line"><tspan
-   id="tspan8548"
-   style="font-weight:bold">parameter</tspan> using the <tspan
+         sodipodi:role="line">the <tspan
+   style="font-weight:bold"
+   id="tspan3778">regularization parameter</tspan>      using the <tspan
    id="tspan8550"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono">LCurve</tspan> estimator. It behaves just</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono">LCurve </tspan></tspan><tspan
          id="tspan8544"
          y="-537.11743"
          x="5000"
-         sodipodi:role="line">like any other.</tspan></text>
+         sodipodi:role="line">estimator. It behaves just like any other <tspan
+   style="-inkscape-font-specification:Ubuntu Mono;font-family:Ubuntu Mono;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan3791">Misfit</tspan>.</tspan></text>
     <g
        id="g8715"
        transform="translate(-99.52187,408.65303)">
@@ -3716,14 +3719,18 @@
          y="3076"
          x="5732"
          id="tspan4705"
-         sodipodi:role="line">The best      falls on the </tspan><tspan
-         id="tspan4707"
+         sodipodi:role="line">The best      provides an </tspan><tspan
          y="3138.5"
          x="5732"
-         sodipodi:role="line">corner of the curve.</tspan></text>
+         sodipodi:role="line"
+         id="tspan3793">estimate that falls on </tspan><tspan
+         id="tspan4707"
+         y="3201"
+         x="5732"
+         sodipodi:role="line">the corner of the curve.</tspan></text>
     <path
        id="path7560-0"
-       d="m 5959.3937,324.69765 0.04,-0.132 0.026,-0.1453 0.04,-0.1453 0.04,-0.1452 0.04,-0.1585 0.04,-0.1584 0.079,-0.3169 0.079,-0.3302 0.079,-0.3301 0.079,-0.3169 0.079,-0.3301 0.026,-0.1453 0.04,-0.1584 0.04,-0.1453 0.026,-0.1452 0.04,-0.1321 0.026,-0.132 0.026,-0.1321 0.026,-0.1056 0.026,-0.1189 0.013,-0.092 0.026,-0.092 0.013,-0.092 0.013,-0.066 0,-0.066 0.013,-0.04 0,-0.026 0,-0.013 c 0,-1.1092 -0.7791,-1.7694 -1.9015,-1.7694 -0.1981,0 -2.0468,0.053 -2.641,2.3505 l -9.4679,38.1091 c -0.1848,0.7777 -0.1848,0.8966 -0.1848,1.0418 0,0.9772 0.7262,1.7827 1.8354,1.7827 1.3865,0 2.1656,-1.2017 2.3109,-1.3866 0.2509,-0.5942 1.1092,-4.0274 3.6181,-14.1555 2.0996,1.7694 5.0442,2.0467 6.3647,2.0467 4.6085,0 7.1835,-2.9579 8.7548,-4.8066 0.5943,2.9711 3.0372,4.8066 5.9158,4.8066 2.3109,0 3.8162,-1.5053 4.8726,-3.6181 1.1092,-2.3637 1.9807,-6.3911 1.9807,-6.51 0,-0.6602 -0.5942,-0.6602 -0.7791,-0.6602 -0.6602,0 -0.7262,0.2641 -0.9375,1.1884 -1.1092,4.2784 -2.3109,8.1474 -4.9914,8.1474 -1.7695,0 -1.9808,-1.7034 -1.9808,-3.0239 0,-1.4526 0.7791,-4.5425 1.3205,-6.8269 l 1.8355,-7.1306 c 0.2113,-0.9904 0.8451,-3.4861 1.1224,-4.4765 0.3301,-1.5053 0.9904,-4.001 0.9904,-4.384 0,-1.2016 -0.9376,-1.7826 -1.9015,-1.7826 -0.3301,0 -2.0468,0.066 -2.5882,2.2976 l -3.0899,12.3069 c -0.7791,3.288 -1.5054,6.0478 -1.7034,6.7081 -0.066,0.3301 -3.222,6.3119 -8.5436,6.3119 -3.288,0 -4.8726,-2.1656 -4.8726,-5.7045 0,-1.9279 0.449,-3.7634 0.9244,-5.6121 z"
+       d="m 5957.3937,326.69765 0.04,-0.132 0.026,-0.1453 0.04,-0.1453 0.04,-0.1452 0.04,-0.1585 0.04,-0.1584 0.079,-0.3169 0.079,-0.3302 0.079,-0.3301 0.079,-0.3169 0.079,-0.3301 0.026,-0.1453 0.04,-0.1584 0.04,-0.1453 0.026,-0.1452 0.04,-0.1321 0.026,-0.132 0.026,-0.1321 0.026,-0.1056 0.026,-0.1189 0.013,-0.092 0.026,-0.092 0.013,-0.092 0.013,-0.066 0,-0.066 0.013,-0.04 0,-0.026 0,-0.013 c 0,-1.1092 -0.7791,-1.7694 -1.9015,-1.7694 -0.1981,0 -2.0468,0.053 -2.641,2.3505 l -9.4679,38.1091 c -0.1848,0.7777 -0.1848,0.8966 -0.1848,1.0418 0,0.9772 0.7262,1.7827 1.8354,1.7827 1.3865,0 2.1656,-1.2017 2.3109,-1.3866 0.2509,-0.5942 1.1092,-4.0274 3.6181,-14.1555 2.0996,1.7694 5.0442,2.0467 6.3647,2.0467 4.6085,0 7.1835,-2.9579 8.7548,-4.8066 0.5943,2.9711 3.0372,4.8066 5.9158,4.8066 2.3109,0 3.8162,-1.5053 4.8726,-3.6181 1.1092,-2.3637 1.9807,-6.3911 1.9807,-6.51 0,-0.6602 -0.5942,-0.6602 -0.7791,-0.6602 -0.6602,0 -0.7262,0.2641 -0.9375,1.1884 -1.1092,4.2784 -2.3109,8.1474 -4.9914,8.1474 -1.7695,0 -1.9808,-1.7034 -1.9808,-3.0239 0,-1.4526 0.7791,-4.5425 1.3205,-6.8269 l 1.8355,-7.1306 c 0.2113,-0.9904 0.8451,-3.4861 1.1224,-4.4765 0.3301,-1.5053 0.9904,-4.001 0.9904,-4.384 0,-1.2016 -0.9376,-1.7826 -1.9015,-1.7826 -0.3301,0 -2.0468,0.066 -2.5882,2.2976 l -3.0899,12.3069 c -0.7791,3.288 -1.5054,6.0478 -1.7034,6.7081 -0.066,0.3301 -3.222,6.3119 -8.5436,6.3119 -3.288,0 -4.8726,-2.1656 -4.8726,-5.7045 0,-1.9279 0.449,-3.7634 0.9244,-5.6121 z"
        inkscape:connector-curvature="0"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
     <text
@@ -3833,5 +3840,10 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
+    <path
+       id="path7560-9"
+       d="m 5717.3019,-620.76064 0.04,-0.132 0.026,-0.1453 0.04,-0.1453 0.04,-0.1452 0.04,-0.1585 0.04,-0.1584 0.079,-0.3169 0.079,-0.3302 0.079,-0.3301 0.079,-0.3169 0.079,-0.3301 0.026,-0.1453 0.04,-0.1584 0.04,-0.1453 0.026,-0.1452 0.04,-0.1321 0.026,-0.132 0.026,-0.1321 0.026,-0.1056 0.026,-0.1189 0.013,-0.092 0.026,-0.092 0.013,-0.092 0.013,-0.066 0,-0.066 0.013,-0.04 0,-0.026 0,-0.013 c 0,-1.1092 -0.7791,-1.7694 -1.9015,-1.7694 -0.1981,0 -2.0468,0.053 -2.641,2.3505 l -9.4679,38.1091 c -0.1848,0.7777 -0.1848,0.8966 -0.1848,1.0418 0,0.9772 0.7262,1.7827 1.8354,1.7827 1.3865,0 2.1656,-1.2017 2.3109,-1.3866 0.2509,-0.5942 1.1092,-4.0274 3.6181,-14.1555 2.0996,1.7694 5.0442,2.0467 6.3647,2.0467 4.6085,0 7.1835,-2.9579 8.7548,-4.8066 0.5943,2.9711 3.0372,4.8066 5.9158,4.8066 2.3109,0 3.8162,-1.5053 4.8726,-3.6181 1.1092,-2.3637 1.9807,-6.3911 1.9807,-6.51 0,-0.6602 -0.5942,-0.6602 -0.7791,-0.6602 -0.6602,0 -0.7262,0.2641 -0.9375,1.1884 -1.1092,4.2784 -2.3109,8.1474 -4.9914,8.1474 -1.7695,0 -1.9808,-1.7034 -1.9808,-3.0239 0,-1.4526 0.7791,-4.5425 1.3205,-6.8269 l 1.8355,-7.1306 c 0.2113,-0.9904 0.8451,-3.4861 1.1224,-4.4765 0.3301,-1.5053 0.9904,-4.001 0.9904,-4.384 0,-1.2016 -0.9376,-1.7826 -1.9015,-1.7826 -0.3301,0 -2.0468,0.066 -2.5882,2.2976 l -3.0899,12.3069 c -0.7791,3.288 -1.5054,6.0478 -1.7034,6.7081 -0.066,0.3301 -3.222,6.3119 -8.5436,6.3119 -3.288,0 -4.8726,-2.1656 -4.8726,-5.7045 0,-1.9279 0.449,-3.7634 0.9244,-5.6121 z"
+       inkscape:connector-curvature="0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
   </g>
 </svg>
