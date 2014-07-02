@@ -27,13 +27,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="3428.6236"
-     inkscape:cy="1765.6793"
+     inkscape:zoom="0.1767767"
+     inkscape:cx="3033.3622"
+     inkscape:cy="2028.9089"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
-     units="cm"
+     units="in"
      borderlayer="true"
      inkscape:window-width="1366"
      inkscape:window-height="719"
@@ -1350,12 +1350,12 @@
     <image
        sodipodi:absref="/home/leo/pub/scipy2014/sketch.png"
        xlink:href="sketch.png"
-       y="-2115.3977"
-       x="1956.9303"
-       id="image8998"
-       height="720"
+       style="stroke-linecap:butt;stroke-linejoin:round"
        width="1080"
-       style="stroke-linecap:butt;stroke-linejoin:round" />
+       height="720"
+       id="image8998"
+       x="1956.9303"
+       y="-2115.3977" />
     <text
        sodipodi:linespacing="125%"
        id="text9005"
@@ -1429,13 +1429,14 @@
          id="tspan9007-7-3-3-9"
          sodipodi:role="line">Moving forward</tspan></text>
     <image
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       width="1170"
-       height="312"
-       xlink:href="file:///home/leo/pub/scipy2014/parametrization.png"
-       id="image9138"
+       sodipodi:absref="/home/leo/pub/scipy2014/parametrization.png"
+       xlink:href="parametrization.png"
+       y="-638.87183"
        x="1933.5481"
-       y="-638.87183" />
+       id="image9138"
+       height="312"
+       width="1170"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
     <g
        id="g3495"
        style="font-size:15px;font-family:monospace"
@@ -1852,206 +1853,200 @@
    style="font-weight:bold;fill:#008000"
    id="tspan6537">        return</tspan> self</tspan></text>
     <g
-       id="g6667"
-       transform="translate(14.343146,282.57864)">
-      <g
-         transform="translate(-1402.8999,62.148357)"
-         id="g6220">
-        <rect
-           rx="16.972858"
-           ry="12.950677"
-           style="fill:#f4f4f4;fill-opacity:1;stroke:#909090;stroke-width:4.44334984;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           id="rect9009-5"
-           width="1284.1729"
-           height="381.53864"
-           x="4849.8979"
-           y="-2175.6106" />
-        <text
-           sodipodi:linespacing="125%"
-           id="text4346"
-           y="-2171.2593"
+       id="g6220"
+       transform="translate(-1388.5568,344.727)">
+      <rect
+         y="-2175.6106"
+         x="4849.8979"
+         height="381.53864"
+         width="1284.1729"
+         id="rect9009-5"
+         style="fill:#f4f4f4;fill-opacity:1;stroke:#909090;stroke-width:4.44334984;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         ry="12.950677"
+         rx="16.972858" />
+      <text
+         xml:space="preserve"
+         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="4872.9136"
+         y="-2171.2593"
+         id="text4346"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
            x="4872.9136"
-           style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-           xml:space="preserve"><tspan
-             style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             id="tspan4352"
-             y="-2171.2593"
-             x="4872.9136"
-             sodipodi:role="line" /><tspan
-             style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-2113.9717"
-             x="4872.9136"
-             sodipodi:role="line"
-             id="tspan7235"><tspan
-   style="font-weight:bold;fill:#008000"
-   id="tspan6375">from</tspan> fatiando <tspan
-   style="font-weight:bold;fill:#008000"
-   id="tspan6379">import</tspan> utils</tspan><tspan
-             style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-2056.4717"
-             x="4872.9136"
-             sodipodi:role="line"
-             id="tspan7239">model = Polygon(vertices, {<tspan
-   style="fill:#ff0000"
-   id="tspan6365">'density'</tspan>: <tspan
-   style="fill:#008000"
-   id="tspan6309">-500</tspan>})</tspan><tspan
-             style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-1998.9718"
-             x="4872.9136"
-             sodipodi:role="line"
-             id="tspan7237">gz = utils.contaminate(talwani.gz(x, z, [model]), <tspan
-   style="fill:#008000"
-   id="tspan6311">0.5</tspan>)</tspan><tspan
-             id="tspan5251"
-             style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-1941.4718"
-             x="4872.9136"
-             sodipodi:role="line"><tspan
-   style="font-weight:bold;fill:#008000"
-   id="tspan6401">from</tspan> fatiando.vis <tspan
-   style="font-weight:bold;fill:#008000"
-   id="tspan6405">import</tspan> mpl</tspan><tspan
-             id="tspan5259"
-             style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-1883.9718"
-             x="4872.9136"
-             sodipodi:role="line">mpl.plot(x, gz, <tspan
-   style="fill:#ff0000"
-   id="tspan6363">'ok'</tspan>)</tspan><tspan
-             id="tspan5257"
-             style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-1826.4718"
-             x="4872.9136"
-             sodipodi:role="line">mpl.polygon(model, <tspan
-   style="fill:#ff0000"
-   id="tspan6359">'-k'</tspan>, fill=<tspan
-   style="fill:#ff0000"
-   id="tspan6361">'grey'</tspan>)</tspan><tspan
-             id="tspan5255"
-             style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-1768.9718"
-             x="4872.9136"
-             sodipodi:role="line" /></text>
-        <text
-           sodipodi:linespacing="125%"
-           id="text4372"
-           y="-2116.188"
+           y="-2171.2593"
+           id="tspan4352"
+           style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono" /><tspan
+           id="tspan7235"
+           sodipodi:role="line"
+           x="4872.9136"
+           y="-2113.9717"
+           style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"><tspan
+   id="tspan6375"
+   style="font-weight:bold;fill:#008000">from</tspan> fatiando <tspan
+   id="tspan6379"
+   style="font-weight:bold;fill:#008000">import</tspan> utils</tspan><tspan
+           id="tspan7239"
+           sodipodi:role="line"
+           x="4872.9136"
+           y="-2056.4717"
+           style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono">model = Polygon(vertices, {<tspan
+   id="tspan6365"
+   style="fill:#ff0000">'density'</tspan>: <tspan
+   id="tspan6309"
+   style="fill:#008000">-500</tspan>})</tspan><tspan
+           id="tspan7237"
+           sodipodi:role="line"
+           x="4872.9136"
+           y="-1998.9718"
+           style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono">gz = utils.contaminate(talwani.gz(x, z, [model]), <tspan
+   id="tspan6311"
+   style="fill:#008000">0.5</tspan>)</tspan><tspan
+           sodipodi:role="line"
+           x="4872.9136"
+           y="-1941.4718"
+           style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+           id="tspan5251"><tspan
+   id="tspan6401"
+   style="font-weight:bold;fill:#008000">from</tspan> fatiando.vis <tspan
+   id="tspan6405"
+   style="font-weight:bold;fill:#008000">import</tspan> mpl</tspan><tspan
+           sodipodi:role="line"
+           x="4872.9136"
+           y="-1883.9718"
+           style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+           id="tspan5259">mpl.plot(x, gz, <tspan
+   id="tspan6363"
+   style="fill:#ff0000">'ok'</tspan>)</tspan><tspan
+           sodipodi:role="line"
+           x="4872.9136"
+           y="-1826.4718"
+           style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+           id="tspan5257">mpl.polygon(model, <tspan
+   id="tspan6359"
+   style="fill:#ff0000">'-k'</tspan>, fill=<tspan
+   id="tspan6361"
+   style="fill:#ff0000">'grey'</tspan>)</tspan><tspan
+           sodipodi:role="line"
+           x="4872.9136"
+           y="-1768.9718"
+           style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+           id="tspan5255" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="4702.4287"
+         y="-2116.188"
+         id="text4372"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4374"
            x="4702.4287"
-           style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-           xml:space="preserve"><tspan
-             style="font-size:50px;fill:#000080;fill-opacity:1"
-             y="-2116.188"
-             x="4702.4287"
-             id="tspan4374"
-             sodipodi:role="line">In [1]:</tspan></text>
-      </g>
-      <image
-         y="-1719.9513"
-         x="3444.7764"
-         id="image9917"
-         xlink:href="file:///home/leo/pub/scipy2014/synthetic.png"
-         height="540"
-         width="1260" />
+           y="-2116.188"
+           style="font-size:50px;fill:#000080;fill-opacity:1">In [1]:</tspan></text>
     </g>
+    <image
+       sodipodi:absref="/home/leo/pub/scipy2014/synthetic.png"
+       xlink:href="synthetic.png"
+       y="-1437.3727"
+       x="3459.1196"
+       id="image9917"
+       height="540"
+       width="1260" />
     <g
-       id="g6693"
-       transform="translate(26.058874,267.26494)">
-      <g
-         transform="translate(152.73503,-888.12608)"
-         id="g6204">
-        <rect
-           inkscape:transform-center-y="-469.82078"
-           inkscape:transform-center-x="-378.04416"
-           rx="16.977583"
-           ry="10.806849"
-           style="fill:#f4f4f4;fill-opacity:1;stroke:#909090;stroke-width:4.05951548;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           id="rect9009-5-8"
-           width="1233.7974"
-           height="373.92725"
-           x="4800.5391"
-           y="-1225.5281" />
-        <text
-           inkscape:transform-center-y="-638.59785"
-           inkscape:transform-center-x="-263.83546"
-           sodipodi:linespacing="125%"
-           id="text4346-6"
-           y="-1170.7595"
+       id="g6204"
+       transform="translate(178.7939,-620.86114)">
+      <rect
+         y="-1225.5281"
+         x="4800.5391"
+         height="373.92725"
+         width="1233.7974"
+         id="rect9009-5-8"
+         style="fill:#f4f4f4;fill-opacity:1;stroke:#909090;stroke-width:4.05951548;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         ry="10.806849"
+         rx="16.977583"
+         inkscape:transform-center-x="-378.04416"
+         inkscape:transform-center-y="-469.82078" />
+      <text
+         xml:space="preserve"
+         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="4826.5757"
+         y="-1170.7595"
+         id="text4346-6"
+         sodipodi:linespacing="125%"
+         inkscape:transform-center-x="-263.83546"
+         inkscape:transform-center-y="-638.59785"><tspan
+           sodipodi:role="line"
            x="4826.5757"
-           style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-           xml:space="preserve"><tspan
-             id="tspan5247-7"
-             style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-1170.7595"
-             x="4826.5757"
-             sodipodi:role="line">misfit = PolyBasin2D(x, z, gz, height=<tspan
-   id="tspan5225-9"
-   style="font-size:46px;fill:#008000;fill-opacity:1">0</tspan>, npoints=<tspan
-   id="tspan5227-9"
-   style="font-size:46px;fill:#008000;fill-opacity:1">30</tspan>, </tspan><tspan
-             style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-1113.2595"
-             x="4826.5757"
-             sodipodi:role="line"
-             id="tspan6577">                     density=<tspan
-   style="fill:#008000"
-   id="tspan6307">-500</tspan>)</tspan><tspan
-             style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             id="tspan4350-9"
-             y="-1055.7595"
-             x="4826.5757"
-             sodipodi:role="line">initial = <tspan
-   id="tspan5222-8"
-   style="font-size:46px;fill:#008000;fill-opacity:1">3000</tspan>*np.ones(misfit.nparams)</tspan><tspan
-             style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-998.25952"
-             x="4826.5757"
-             sodipodi:role="line"
-             id="tspan9903">misfit.config(<tspan
-   id="tspan5231-3"
-   style="font-size:46px;fill:#ff0000;fill-opacity:1">'levmarq'</tspan>, initial=initial).fit()</tspan><tspan
-             id="tspan5259-4"
-             style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-940.75952"
-             x="4826.5757"
-             sodipodi:role="line">mpl.plot(x, misfit.predicted(), <tspan
-   style="fill:#ff0000"
-   id="tspan6305">'-r'</tspan>)</tspan><tspan
-             id="tspan5257-6"
-             style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-883.25952"
-             x="4826.5757"
-             sodipodi:role="line">mpl.polygon(misfit.estimate_, <tspan
-   style="fill:#ff0000"
-   id="tspan6283">'o-r'</tspan>)</tspan><tspan
-             id="tspan5255-9"
-             style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-825.75952"
-             x="4826.5757"
-             sodipodi:role="line" /></text>
-        <text
-           inkscape:transform-center-y="-777.3344"
-           inkscape:transform-center-x="394.81247"
-           sodipodi:linespacing="125%"
-           id="text4372-3"
-           y="-1165.9136"
+           y="-1170.7595"
+           style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+           id="tspan5247-7">misfit = PolyBasin2D(x, z, gz, height=<tspan
+   style="font-size:46px;fill:#008000;fill-opacity:1"
+   id="tspan5225-9">0</tspan>, npoints=<tspan
+   style="font-size:46px;fill:#008000;fill-opacity:1"
+   id="tspan5227-9">30</tspan>, </tspan><tspan
+           id="tspan6577"
+           sodipodi:role="line"
+           x="4826.5757"
+           y="-1113.2595"
+           style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono">                     density=<tspan
+   id="tspan6307"
+   style="fill:#008000">-500</tspan>)</tspan><tspan
+           sodipodi:role="line"
+           x="4826.5757"
+           y="-1055.7595"
+           id="tspan4350-9"
+           style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono">initial = <tspan
+   style="font-size:46px;fill:#008000;fill-opacity:1"
+   id="tspan5222-8">3000</tspan>*np.ones(misfit.nparams)</tspan><tspan
+           id="tspan9903"
+           sodipodi:role="line"
+           x="4826.5757"
+           y="-998.25952"
+           style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono">misfit.config(<tspan
+   style="font-size:46px;fill:#ff0000;fill-opacity:1"
+   id="tspan5231-3">'levmarq'</tspan>, initial=initial).fit()</tspan><tspan
+           sodipodi:role="line"
+           x="4826.5757"
+           y="-940.75952"
+           style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+           id="tspan5259-4">mpl.plot(x, misfit.predicted(), <tspan
+   id="tspan6305"
+   style="fill:#ff0000">'-r'</tspan>)</tspan><tspan
+           sodipodi:role="line"
+           x="4826.5757"
+           y="-883.25952"
+           style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+           id="tspan5257-6">mpl.polygon(misfit.estimate_, <tspan
+   id="tspan6283"
+   style="fill:#ff0000">'o-r'</tspan>)</tspan><tspan
+           sodipodi:role="line"
+           x="4826.5757"
+           y="-825.75952"
+           style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+           id="tspan5255-9" /></text>
+      <text
+         xml:space="preserve"
+         style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         x="4656.9731"
+         y="-1165.9136"
+         id="text4372-3"
+         sodipodi:linespacing="125%"
+         inkscape:transform-center-x="394.81247"
+         inkscape:transform-center-y="-777.3344"><tspan
+           sodipodi:role="line"
+           id="tspan4374-8"
            x="4656.9731"
-           style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-           xml:space="preserve"><tspan
-             style="font-size:50px;fill:#000080;fill-opacity:1"
-             y="-1165.9136"
-             x="4656.9731"
-             id="tspan4374-8"
-             sodipodi:role="line">In [2]:</tspan></text>
-      </g>
-      <image
-         y="-1719.9513"
-         x="4951.2441"
-         id="image9928"
-         xlink:href="file:///home/leo/pub/scipy2014/estimate.png"
-         height="540"
-         width="1260" />
+           y="-1165.9136"
+           style="font-size:50px;fill:#000080;fill-opacity:1">In [2]:</tspan></text>
     </g>
+    <image
+       sodipodi:absref="/home/leo/pub/scipy2014/estimate.png"
+       xlink:href="estimate.png"
+       y="-1452.6864"
+       x="4977.3032"
+       id="image9928"
+       height="540"
+       width="1260" />
     <flowRoot
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        id="flowRoot9931"
@@ -2124,12 +2119,13 @@
            style="font-size:50px;fill:#000080;fill-opacity:1">In [3]:</tspan></text>
     </g>
     <image
-       width="1260"
-       height="540"
-       xlink:href="file:///home/leo/pub/scipy2014/estimate-regularized.png"
-       id="image10043"
+       sodipodi:absref="/home/leo/pub/scipy2014/estimate-regularized.png"
+       xlink:href="estimate-regularized.png"
+       y="-68.993073"
        x="3447.1782"
-       y="-68.993073" />
+       id="image10043"
+       height="540"
+       width="1260" />
     <rect
        ry="24.048746"
        rx="14.573323"
@@ -2168,121 +2164,114 @@
          x="2001.6055"
          id="tspan5497"
          sodipodi:role="line">TL;DR</tspan></text>
-    <g
-       transform="matrix(0.93610449,0,0,0.93610449,-241.24398,38.207103)"
-       id="g13183">
-      <image
-         y="552.63464"
-         x="1046.9899"
-         id="image9733"
-         xlink:href="file:///home/leo/pub/scipy2014/jacobian-3.png"
-         height="225"
-         width="720" />
-      <image
-         y="748.5755"
-         x="324.84317"
-         id="image9744"
-         xlink:href="file:///home/leo/pub/scipy2014/jacobian-2.png"
-         height="225"
-         width="720" />
-      <image
-         y="552.63464"
-         x="324.84317"
-         id="image9755"
-         xlink:href="file:///home/leo/pub/scipy2014/jacobian-1.png"
-         height="225"
-         width="720" />
-      <image
-         y="748.5755"
-         x="1046.9899"
-         id="image5517"
-         xlink:href="file:///home/leo/pub/scipy2014/jacobian-4.png"
-         height="225"
-         width="720"
-         style="stroke:#333333;stroke-width:22.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <path
-         sodipodi:nodetypes="cc"
-         style="fill:none;stroke:#333333;stroke-width:22.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutSr)"
-         d="M 961.65685,642.5603 1128,654.3593"
-         id="path5520"
-         inkscape:connector-curvature="0" />
-      <path
-         sodipodi:nodetypes="cc"
-         style="fill:none;stroke:#333333;stroke-width:22.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutS3)"
-         d="M 974.82843,820.3349 1136.4853,693.874"
-         id="path5522"
-         inkscape:connector-curvature="0" />
-      <path
-         sodipodi:nodetypes="cc"
-         style="fill:none;stroke:#333333;stroke-width:22.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutSQ)"
-         d="m 1506.7208,709.6141 -20.9117,103.2061"
-         id="path5524"
-         inkscape:connector-curvature="0" />
-    </g>
-    <g
-       transform="translate(16.686292,-11.147187)"
-       id="g3696">
-      <image
-         width="250.70927"
-         height="180"
-         xlink:href="file:///home/leo/pub/scipy2014/CAPES.png"
-         id="image7303"
-         x="6011.2466"
-         y="766.0603" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text7326"
-         y="873.71716"
-         x="5988.877"
-         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-         xml:space="preserve"><tspan
-           style="font-weight:500;-inkscape-font-specification:Ubuntu Medium"
-           y="873.71716"
-           x="6000.498"
-           id="tspan7328"
-           sodipodi:role="line">Financial </tspan><tspan
-           style="font-weight:500;-inkscape-font-specification:Ubuntu Medium"
-           id="tspan7330"
-           y="936.21716"
-           x="5988.877"
-           sodipodi:role="line">support</tspan></text>
-    </g>
-    <g
-       id="g6396"
-       transform="translate(-1547.0935,3.2422122e-8)">
-      <g
-         id="g3791"
-         transform="translate(0,4.2538757)">
-        <image
-           y="-2535.9092"
-           x="6005.4795"
-           id="image7894"
-           xlink:href="file:///home/leo/pub/scipy2014/fatiando-logo.png"
-           height="225"
-           width="225" />
-        <image
-           width="488.21765"
-           height="225"
-           xlink:href="file:///home/leo/pub/scipy2014/pinga-banner-highres.png"
-           id="image8391"
-           x="5445.106"
-           y="-2535.9092" />
-        <image
-           y="-2535.9092"
-           x="5138.9282"
-           id="image7292"
-           xlink:href="file:///home/leo/pub/scipy2014/ON.png"
-           height="225"
-           width="280.18869" />
-        <image
-           y="-2535.9092"
-           x="4889.7075"
-           id="image3369"
-           xlink:href="file:///home/leo/pub/scipy2014/UERJ.png"
-           height="225"
-           width="204.4536" />
-      </g>
-    </g>
+    <image
+       sodipodi:absref="/home/leo/pub/scipy2014/jacobian-3.png"
+       xlink:href="jacobian-3.png"
+       y="555.53088"
+       x="738.84796"
+       id="image9733"
+       height="210.6235"
+       width="673.99524" />
+    <image
+       sodipodi:absref="/home/leo/pub/scipy2014/jacobian-2.png"
+       xlink:href="jacobian-2.png"
+       y="738.95197"
+       x="62.84317"
+       id="image9744"
+       height="210.6235"
+       width="673.99524" />
+    <image
+       sodipodi:absref="/home/leo/pub/scipy2014/jacobian-1.png"
+       xlink:href="jacobian-1.png"
+       y="555.53088"
+       x="62.84317"
+       id="image9755"
+       height="210.6235"
+       width="673.99524" />
+    <image
+       sodipodi:absref="/home/leo/pub/scipy2014/jacobian-4.png"
+       xlink:href="jacobian-4.png"
+       y="738.95197"
+       x="738.84796"
+       id="image5517"
+       height="210.6235"
+       width="673.99524"
+       style="stroke:#333333;stroke-width:22.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5520"
+       d="m 658.96732,639.71068 155.71456,11.0451"
+       style="fill:none;stroke:#333333;stroke-width:21.06235123;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutSr)"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5522"
+       d="M 671.29729,806.12629 822.62501,687.74567"
+       style="fill:none;stroke:#333333;stroke-width:21.06235123;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutS3)"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5524"
+       d="m 1169.2041,702.48005 -19.5755,96.61169"
+       style="fill:none;stroke:#333333;stroke-width:21.06235123;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutSQ)"
+       sodipodi:nodetypes="cc" />
+    <image
+       sodipodi:absref="/home/leo/pub/scipy2014/CAPES.png"
+       xlink:href="CAPES.png"
+       width="250.70927"
+       height="180"
+       id="image7303"
+       x="6027.9331"
+       y="754.91309" />
+    <text
+       xml:space="preserve"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="6005.5635"
+       y="862.56995"
+       id="text7326"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7328"
+         x="6017.1846"
+         y="862.56995"
+         style="font-weight:500;-inkscape-font-specification:Ubuntu Medium">Financial </tspan><tspan
+         sodipodi:role="line"
+         x="6005.5635"
+         y="925.06995"
+         id="tspan7330"
+         style="font-weight:500;-inkscape-font-specification:Ubuntu Medium">support</tspan></text>
+    <image
+       sodipodi:absref="/home/leo/pub/scipy2014/fatiando-logo.png"
+       xlink:href="fatiando-logo.png"
+       width="225"
+       height="225"
+       id="image7894"
+       x="4458.3862"
+       y="-2531.6553" />
+    <image
+       sodipodi:absref="/home/leo/pub/scipy2014/pinga-banner-highres.png"
+       xlink:href="pinga-banner-highres.png"
+       y="-2531.6553"
+       x="3898.0125"
+       id="image8391"
+       height="225"
+       width="488.21765" />
+    <image
+       sodipodi:absref="/home/leo/pub/scipy2014/ON.png"
+       xlink:href="ON.png"
+       width="280.18869"
+       height="225"
+       id="image7292"
+       x="3591.8347"
+       y="-2531.6553" />
+    <image
+       sodipodi:absref="/home/leo/pub/scipy2014/UERJ.png"
+       xlink:href="UERJ.png"
+       width="204.4536"
+       height="225"
+       id="image3369"
+       x="3342.614"
+       y="-2531.6553" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3372"
@@ -3328,7 +3317,7 @@
          id="tspan6852"><tspan
    style="font-weight:bold"
    id="tspan3828">estimated</tspan> parameter vector. <tspan
-   style="-inkscape-font-specification:Ubuntu Mono;font-family:Ubuntu Mono;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
    id="tspan3846">misfit</tspan><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
    id="tspan6854">.estimate_</tspan> is a </tspan><tspan
@@ -3386,7 +3375,7 @@
          x="5172"
          y="2420" /></text>
     <g
-       transform="translate(80.239373,32)"
+       transform="translate(72.426879,32)"
        id="g8283">
       <path
          id="path7538"
@@ -3643,12 +3632,13 @@
            style="font-size:50px;fill:#000080;fill-opacity:1">In [5]:</tspan></text>
     </g>
     <image
-       y="324.34106"
-       x="5003.3193"
-       id="image8732"
-       xlink:href="file:///home/leo/pub/scipy2014/lcurve.png"
+       sodipodi:absref="/home/leo/pub/scipy2014/lcurve.png"
+       xlink:href="lcurve.png"
+       width="720"
        height="540"
-       width="720" />
+       id="image8732"
+       x="5003.3193"
+       y="324.34106" />
     <text
        xml:space="preserve"
        style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
@@ -3706,7 +3696,7 @@
        style="fill:none;stroke:#008000;stroke-width:27;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none" />
     <path
        sodipodi:nodetypes="cc"
-       style="fill:none;stroke:#333333;stroke-width:12.06;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutSQ)"
+       style="fill:none;stroke:#333333;stroke-width:12.06000042;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutSQ)"
        d="m 5464.9554,534.09191 -137.5756,96.6117"
        id="path5524-0"
        inkscape:connector-curvature="0" />
@@ -3792,55 +3782,52 @@
          sodipodi:role="line"><tspan
    id="tspan4803"
    style="font-weight:bold">*</tspan> Faster/smarter code;</tspan></text>
+    <image
+       sodipodi:absref="/home/leo/pub/scipy2014/figshare-qr.png"
+       xlink:href="figshare-qr.png"
+       y="-2554.1553"
+       x="5662"
+       id="image4813"
+       height="270"
+       width="270" />
     <g
-       id="g6386"
-       transform="translate(1396,-3.0517578e-5)">
-      <image
-         y="-2554.1553"
-         x="4266"
-         id="image4813"
-         xlink:href="file:///home/leo/pub/scipy2014/figshare-qr.png"
-         height="270"
-         width="270" />
-      <g
-         transform="translate(0,-18.343414)"
-         id="g6378">
-        <rect
-           style="fill:#f2f2f2;stroke:#f1f1f1;stroke-width:12.06000042;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.97311832;stroke-dasharray:none"
-           id="rect6376"
-           width="413.74048"
-           height="232.97046"
-           x="3754.6863"
-           y="-2517.2971" />
-        <text
-           sodipodi:linespacing="80.000001%"
-           id="text4816"
-           y="-2430.1069"
+       id="g6378"
+       transform="translate(1396,-18.343445)">
+      <rect
+         y="-2517.2971"
+         x="3754.6863"
+         height="232.97046"
+         width="413.74048"
+         id="rect6376"
+         style="fill:#f2f2f2;stroke:#f1f1f1;stroke-width:12.06000042;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.97311832;stroke-dasharray:none" />
+      <text
+         xml:space="preserve"
+         style="font-size:50px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+         x="3956.2354"
+         y="-2430.1069"
+         id="text4816"
+         sodipodi:linespacing="80.000001%"><tspan
+           sodipodi:role="line"
+           id="tspan4818"
            x="3956.2354"
-           style="font-size:50px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-           xml:space="preserve"><tspan
-             style="font-size:70px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:80.00000119%;writing-mode:lr-tb;text-anchor:middle;fill:#1a1a1a;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-             y="-2430.1069"
-             x="3956.2354"
-             id="tspan4818"
-             sodipodi:role="line">Notebook</tspan><tspan
-             style="font-size:70px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:80.00000119%;writing-mode:lr-tb;text-anchor:middle;fill:#1a1a1a;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-             id="tspan4823"
-             y="-2374.1069"
-             x="3956.2354"
-             sodipodi:role="line">+</tspan><tspan
-             id="tspan4827"
-             style="font-size:70px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:80.00000119%;writing-mode:lr-tb;text-anchor:middle;fill:#1a1a1a;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
-             y="-2318.1069"
-             x="3956.2354"
-             sodipodi:role="line">Poster</tspan></text>
-        <path
-           sodipodi:nodetypes="cc"
-           style="fill:none;stroke:#f1f1f1;stroke-width:30.05999947;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.97311832;stroke-dasharray:none;marker-end:url(#TriangleOutSQX)"
-           d="m 4169.2684,-2400.8119 49.3849,0"
-           id="path5524-0-1"
-           inkscape:connector-curvature="0" />
-      </g>
+           y="-2430.1069"
+           style="font-size:70px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:80.00000119%;writing-mode:lr-tb;text-anchor:middle;fill:#1a1a1a;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">Notebook</tspan><tspan
+           sodipodi:role="line"
+           x="3956.2354"
+           y="-2374.1069"
+           id="tspan4823"
+           style="font-size:70px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:80.00000119%;writing-mode:lr-tb;text-anchor:middle;fill:#1a1a1a;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium">+</tspan><tspan
+           sodipodi:role="line"
+           x="3956.2354"
+           y="-2318.1069"
+           style="font-size:70px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:80.00000119%;writing-mode:lr-tb;text-anchor:middle;fill:#1a1a1a;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Medium"
+           id="tspan4827">Poster</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path5524-0-1"
+         d="m 4169.2684,-2400.8119 49.3849,0"
+         style="fill:none;stroke:#f1f1f1;stroke-width:30.05999947;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.97311832;stroke-dasharray:none;marker-end:url(#TriangleOutSQX)"
+         sodipodi:nodetypes="cc" />
     </g>
     <path
        id="path7560-9"
