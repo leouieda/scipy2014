@@ -15,7 +15,7 @@ I'll walk through an example to show you how.
 
 ## Poster
 
-![The poster.](https://github.com/leouieda/scipy2014/blob/master/poster-low-res.png)
+![The poster.](https://raw.githubusercontent.com/leouieda/scipy2014/master/poster-low-res.png)
 
 The notebook
 [gravity_inversion.ipynb](http://nbviewer.ipython.org/github/leouieda/scipy2014/blob/master/gravity_inversion.ipynb)
