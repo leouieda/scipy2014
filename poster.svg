@@ -18,8 +18,8 @@
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="poster.svg"
    inkscape:export-filename="/home/leo/pub/scipy2014/poster-low-res.png"
-   inkscape:export-xdpi="20"
-   inkscape:export-ydpi="20">
+   inkscape:export-xdpi="16.93"
+   inkscape:export-ydpi="16.93">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.125"
-     inkscape:cx="3327.8313"
-     inkscape:cy="1899.6366"
+     inkscape:zoom="0.25"
+     inkscape:cx="3080.1771"
+     inkscape:cy="1397.8344"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1426,7 +1426,7 @@
          y="584.84497"
          x="3288.875"
          id="tspan9007-7-3-3-9"
-         sodipodi:role="line">6 - Send us a Pull Request</tspan></text>
+         sodipodi:role="line">Moving forward</tspan></text>
     <image
        style="stroke-linecap:butt;stroke-linejoin:round"
        width="1170"
@@ -3648,19 +3648,19 @@
        xml:space="preserve"
        style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        x="3433.7146"
-       y="698.32068"
+       y="694.32068"
        id="text8735"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="3433.7146"
-         y="698.32068"
-         id="tspan8743"><tspan
-   id="tspan4742"
-   style="font-weight:bold">We want your code!</tspan> Here is a list of what we're working on</tspan><tspan
-         id="tspan4740"
+         y="694.32068"
+         id="tspan3745"><tspan
+   style="font-weight:bold"
+   id="tspan3755">We want your code! </tspan>Here is a list of what we're working on</tspan><tspan
          sodipodi:role="line"
          x="3433.7146"
-         y="760.82068">for the inverse problems framework:</tspan></text>
+         y="756.82068"
+         id="tspan3749">and planning for the future:</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
@@ -3701,7 +3701,7 @@
        style="fill:none;stroke:#008000;stroke-width:27;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none" />
     <path
        sodipodi:nodetypes="cc"
-       style="fill:none;stroke:#333333;stroke-width:21.06235123;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutSQ)"
+       style="fill:none;stroke:#333333;stroke-width:12.06;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#TriangleOutSQ)"
        d="m 5464.9554,534.09191 -137.5756,96.6117"
        id="path5524-0"
        inkscape:connector-curvature="0" />
@@ -3729,19 +3729,19 @@
     <text
        xml:space="preserve"
        style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-       x="3292.166"
+       x="3266"
        y="837.3595"
        id="text8735-2"
        sodipodi:linespacing="125%"><tspan
          id="tspan4740-7"
          sodipodi:role="line"
-         x="3292.166"
+         x="3266"
          y="837.3595"><tspan
    id="tspan4776"
    style="font-weight:bold">*</tspan> Uncertainty estimation;</tspan><tspan
          id="tspan4774"
          sodipodi:role="line"
-         x="3292.166"
+         x="3266"
          y="899.8595"><tspan
    id="tspan4778"
    style="font-weight:bold">*</tspan> Cross-validation;</tspan></text>
@@ -3749,40 +3749,40 @@
        sodipodi:linespacing="125%"
        id="text4780"
        y="836.63452"
-       x="3917.2288"
+       x="3858.1455"
        style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        xml:space="preserve"><tspan
          y="836.63452"
-         x="3917.2288"
+         x="3858.1455"
          id="tspan4782"
          sodipodi:role="line"><tspan
    id="tspan4797"
    style="font-weight:bold">* </tspan>Joint inversion;</tspan><tspan
          id="tspan4784"
          y="899.13452"
-         x="3917.2288"
+         x="3858.1455"
          sodipodi:role="line"><tspan
    id="tspan4799"
    style="font-weight:bold">* </tspan>Bayesian methods; </tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4786"
-       y="838.3595"
-       x="4437.0879"
+       y="837.70947"
+       x="4345.0879"
        style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        xml:space="preserve"><tspan
-         y="838.3595"
-         x="4437.0879"
+         y="837.70947"
+         x="4345.0879"
          id="tspan4788"
          sodipodi:role="line"><tspan
    id="tspan4801"
-   style="font-weight:bold">*</tspan> Faster solvers;</tspan><tspan
+   style="font-weight:bold">*</tspan> New inverse problems;</tspan><tspan
          id="tspan4790"
-         y="900.8595"
-         x="4437.0879"
+         y="900.20947"
+         x="4345.0879"
          sodipodi:role="line"><tspan
    id="tspan4803"
-   style="font-weight:bold">*</tspan> Smarter code;</tspan></text>
+   style="font-weight:bold">*</tspan> Faster/smarter code;</tspan></text>
     <g
        id="g6386"
        transform="translate(1396,-3.0517578e-5)">
