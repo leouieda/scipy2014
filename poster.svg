@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="3148.5509"
-     inkscape:cy="1777.0541"
+     inkscape:zoom="0.125"
+     inkscape:cx="3428.6236"
+     inkscape:cy="1765.6793"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1233,7 +1233,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1869,17 +1869,17 @@
         <text
            sodipodi:linespacing="125%"
            id="text4346"
-           y="-2179.2593"
+           y="-2171.2593"
            x="4872.9136"
            style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
            xml:space="preserve"><tspan
              style="font-size:45px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
              id="tspan4352"
-             y="-2179.2593"
+             y="-2171.2593"
              x="4872.9136"
              sodipodi:role="line" /><tspan
              style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-2121.9717"
+             y="-2113.9717"
              x="4872.9136"
              sodipodi:role="line"
              id="tspan7235"><tspan
@@ -1888,7 +1888,7 @@
    style="font-weight:bold;fill:#008000"
    id="tspan6379">import</tspan> utils</tspan><tspan
              style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-2064.4717"
+             y="-2056.4717"
              x="4872.9136"
              sodipodi:role="line"
              id="tspan7239">model = Polygon(vertices, {<tspan
@@ -1897,7 +1897,7 @@
    style="fill:#008000"
    id="tspan6309">-500</tspan>})</tspan><tspan
              style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-2006.9718"
+             y="-1998.9718"
              x="4872.9136"
              sodipodi:role="line"
              id="tspan7237">gz = utils.contaminate(talwani.gz(x, z, [model]), <tspan
@@ -1905,7 +1905,7 @@
    id="tspan6311">0.5</tspan>)</tspan><tspan
              id="tspan5251"
              style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-1949.4718"
+             y="-1941.4718"
              x="4872.9136"
              sodipodi:role="line"><tspan
    style="font-weight:bold;fill:#008000"
@@ -1914,14 +1914,14 @@
    id="tspan6405">import</tspan> mpl</tspan><tspan
              id="tspan5259"
              style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-1891.9718"
+             y="-1883.9718"
              x="4872.9136"
              sodipodi:role="line">mpl.plot(x, gz, <tspan
    style="fill:#ff0000"
    id="tspan6363">'ok'</tspan>)</tspan><tspan
              id="tspan5257"
              style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-1834.4718"
+             y="-1826.4718"
              x="4872.9136"
              sodipodi:role="line">mpl.polygon(model, <tspan
    style="fill:#ff0000"
@@ -1930,7 +1930,7 @@
    id="tspan6361">'grey'</tspan>)</tspan><tspan
              id="tspan5255"
              style="font-size:46px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-             y="-1776.9718"
+             y="-1768.9718"
              x="4872.9136"
              sodipodi:role="line" /></text>
         <text
@@ -2159,12 +2159,12 @@
        transform="matrix(0,-1,1,0,0,0)"
        sodipodi:linespacing="125%"
        id="text5495"
-       y="133.47119"
+       y="131.47119"
        x="2001.6055"
        style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
        xml:space="preserve"><tspan
          style="font-size:70px;font-weight:500;fill:#ffffff;-inkscape-font-specification:Ubuntu Medium"
-         y="133.47119"
+         y="131.47119"
          x="2001.6055"
          id="tspan5497"
          sodipodi:role="line">TL;DR</tspan></text>
@@ -2768,9 +2768,9 @@
            sodipodi:role="line"
            x="1893.65"
            y="-63.140503"
-           id="tspan6763">gravity data from a <tspan
+           id="tspan6763">gravity data for a <tspan
    style="font-weight:bold"
-   id="tspan3808">parameter vector</tspan>.</tspan></text>
+   id="tspan3812">parameter vector</tspan>. </tspan></text>
     </g>
     <g
        id="g4747"
@@ -2892,7 +2892,7 @@
            sodipodi:role="line"
            id="tspan15518"
            x="1880"
-           y="90.359497">Given observed data       ,  the l2-norm <tspan
+           y="90.359497">Given observed data       ,  the L2-norm <tspan
    style="font-weight:bold"
    id="tspan15522">misfit</tspan> is</tspan></text>
       <g
@@ -3296,13 +3296,13 @@
          sodipodi:role="line"
          x="3462.6326"
          y="-1980.8124"
-         id="tspan6745">Let's create a synthetic basin using a polygon, calculate </tspan><tspan
+         id="tspan3816">Let's create a synthetic basin using a polygon. Then, we</tspan><tspan
          sodipodi:role="line"
          x="3462.6326"
          y="-1918.3124"
-         id="tspan6747">some <tspan
+         id="tspan6747">calculate some <tspan
    style="font-weight:bold"
-   id="tspan3800">noisy</tspan> gravity anomaly data, and plot them.</tspan></text>
+   id="tspan3800">noisy</tspan> gravity anomaly data and plot them.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
@@ -3313,33 +3313,37 @@
          sodipodi:role="line"
          x="4981.4634"
          y="-2162.5083"
-         id="tspan6791">We run our inversion using a 30 vertices and the </tspan><tspan
+         id="tspan6791">We run our inversion using 30 polygon vertices and the </tspan><tspan
          sodipodi:role="line"
          x="4981.4634"
-         y="-2100.0083"
-         id="tspan6779">Levemberg-Marquardt method. </tspan><tspan
-         sodipodi:role="line"
-         x="4981.4634"
-         y="-2036.3296"
-         id="tspan6781"><tspan
+         y="-2098.8296"
+         id="tspan6781">Levemberg-Marquardt method. <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-   id="tspan6835">Misfit.p_</tspan> holds the <tspan
-   style="font-weight:bold"
-   id="tspan6860">estimated</tspan> parameter vector. </tspan><tspan
+   id="tspan3844">misfit</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+   id="tspan6835">.p_</tspan> holds the </tspan><tspan
          sodipodi:role="line"
          x="4981.4634"
-         y="-1972.3065"
+         y="-2034.8065"
          id="tspan6852"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-   id="tspan6854">Misfit.estimate_</tspan> is a <tspan
    style="font-weight:bold"
-   id="tspan6862">formated version</tspan> of it </tspan><tspan
+   id="tspan3828">estimated</tspan> parameter vector. <tspan
+   style="-inkscape-font-specification:Ubuntu Mono;font-family:Ubuntu Mono;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan3846">misfit</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+   id="tspan6854">.estimate_</tspan> is a </tspan><tspan
          sodipodi:role="line"
          x="4981.4634"
-         y="-1908.2834"
-         id="tspan6845">(in this case, a <tspan
+         y="-1970.7834"
+         id="tspan6845"><tspan
+   style="font-weight:bold"
+   id="tspan3836">formated version</tspan> of it (in this case, a <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
-   id="tspan6820">Polygon</tspan> instance ready for plotting).</tspan></text>
+   id="tspan6820">Polygon</tspan> instance </tspan><tspan
+         sodipodi:role="line"
+         x="4981.4634"
+         y="-1907.9391"
+         id="tspan3842">ready for plotting).</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
@@ -3587,9 +3591,7 @@
          id="tspan8544"
          y="-537.11743"
          x="5000"
-         sodipodi:role="line">estimator. It behaves just like any other <tspan
-   style="-inkscape-font-specification:Ubuntu Mono;font-family:Ubuntu Mono;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
-   id="tspan3791">Misfit</tspan>.</tspan></text>
+         sodipodi:role="line">class. It behaves just like any other estimator.</tspan></text>
     <g
        id="g8715"
        transform="translate(-99.52187,408.65303)">
@@ -3659,7 +3661,7 @@
          y="694.32068"
          id="tspan3745"><tspan
    style="font-weight:bold"
-   id="tspan3755">We want your code! </tspan>Here is a list of what we're working on</tspan><tspan
+   id="tspan3755">We want your help! </tspan>Here is a list of what we're working on</tspan><tspan
          sodipodi:role="line"
          x="3433.7146"
          y="756.82068"
@@ -3694,7 +3696,7 @@
          x="5002.7002"
          sodipodi:role="line"><tspan
    id="tspan3803"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono">LCurve.regul_param_</tspan>.</tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono">lc.regul_param_</tspan>.</tspan></text>
     <path
        sodipodi:nodetypes="ccc"
        transform="translate(0,-2727.6405)"
