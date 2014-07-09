@@ -23,6 +23,9 @@ was used to create all figures and code in the poster.
 
 A PDF of this poster is permanently archived at figshare: [doi:10.6084/m9.figshare.1089987](http://dx.doi.org/10.6084/m9.figshare.1089987)
 
+[poster_summary.ipynb](http://nbviewer.ipython.org/github/leouieda/scipy2014/blob/master/poster_summary.ipynb)
+is a short version of the above notebook.
+
 ## Scipy2014
 
 The notebook
