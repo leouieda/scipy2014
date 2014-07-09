@@ -23,6 +23,15 @@ was used to create all figures and code in the poster.
 
 A PDF of this poster is permanently archived at figshare: [doi:10.6084/m9.figshare.1089987](http://dx.doi.org/10.6084/m9.figshare.1089987)
 
+## Scipy2014
+
+The notebook
+[scipy_hashtag.ipynb](http://nbviewer.ipython.org/github/leouieda/scipy2014/blob/master/hashtag/scipy_hashtag.ipynb)
+uses the finite-difference wave propagation module of Fatiando to make an
+animated gif of #Scipy2014.
+
+![#Scipy2014](https://raw.githubusercontent.com/leouieda/scipy2014/master/hashtag/scipy2014.gif)
+
 ## Abstract
 
 The inner properties of the Earth
